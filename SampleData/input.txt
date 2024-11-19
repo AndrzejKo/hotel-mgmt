@@ -1,0 +1,7 @@
+Availability(H1, 20240901, SGL)
+Availability(H1, 20240901-20240903, DBL) 
+Search(H1, 365, SGL) 
+
+
+Invalid inputs:
+Availability(H1, 20240901-20240901, SGL)
